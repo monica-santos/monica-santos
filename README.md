@@ -5,4 +5,4 @@
 
 I'm Mônica Santos, a Fullstack Developer 👩‍💻️ 
 
-Currently working at [Sabion Digital](https://github.com/sabiondigital)
+Currently working at [Gorila Invest](https://gorila.com.br/)
